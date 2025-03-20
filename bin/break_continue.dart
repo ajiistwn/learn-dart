@@ -8,7 +8,6 @@ void main(List<String> args) {
     if (i > 100) {
       break;
     }
-
     print(i);
   }
 }
